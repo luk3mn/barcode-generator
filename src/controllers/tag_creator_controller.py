@@ -30,6 +30,6 @@ class TagCreatorController:
             "data": {
                 "type": "Tag Image",
                 "count": 1,
-                "path": f"{path_from_tag}"
+                "path": f"{path_from_tag}.png"
             }
         }
